@@ -1,6 +1,10 @@
 ### Hi there 👋 
 
-I'm currently a student at Columbia University
+I'm Devangi (she/her)
+I'm an MPA Finance student at Columbia University
+I'm looking to collaborate to learn Python 
+Fund fact: I can be your dog sitter 
+
 
 <!--
 **devangirathod/devangirathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
