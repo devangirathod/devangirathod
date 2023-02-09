@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
-I'm Devangi (she/her)
-I'm an MPA Finance student at Columbia University
-I'm looking to collaborate to learn Python 
-Fund fact: I can be your dog sitter 
+<!I'm Devangi (she/her)
+<!I'm an MPA Finance student at Columbia University
+<!-I'm looking to collaborate to learn Python 
+<!-Fund fact: I can be your dog sitter 
 
 
 <!--
